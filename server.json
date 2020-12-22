@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Molho de Tomate",
+      "price": "18,90",
+      "description": "Humbelo prato de massa com molho vermelho",
+      "available": true,
+      "id": 4
     }
   ]
 }
